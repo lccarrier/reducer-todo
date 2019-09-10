@@ -1,0 +1,21 @@
+p.active {
+  text-decoration: line-through;
+}
+
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 3em;
+  align-items: center;
+  justify-content: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25em;
+  background: white;
+  height: 35em;
+}
